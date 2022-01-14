@@ -1,0 +1,5 @@
+React Create Project cmd
+npx create-react-app 01tut
+
+react icons 
+npm i react-icons -D
